@@ -22,3 +22,6 @@ html, body {
 #color{
     font-weight: bold;
 }
+input{
+    background-color: rgb(247, 210, 162);
+}
